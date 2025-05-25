@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Caltech course-Simplilearn\Course 4 project (AWS EC2 deployment )\Pet's clinic\.metadata\.plugins\org.eclipse.jdt.core
+2992169055.index
+1865797976.index

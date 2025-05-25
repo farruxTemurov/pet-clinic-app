@@ -1,0 +1,9 @@
+version: "3.8" 
+services:
+ spring-boot-container:
+  build: ./
+  container_name: spring-boot-my-container
+  ports:
+   - "9090:9090"
+  restart: always
+ 
